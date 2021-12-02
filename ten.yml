@@ -1,0 +1,4 @@
+name: test_env
+channels:
+  - defaults
+prefix: /Users/samantha.h.schaffner/opt/anaconda3/envs/test_env
